@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <radialGradient id="coreGradient" cx="0.3" cy="0.3" r="0.7">
+      <stop offset="0%" stop-color="#FFDAB9"/>
+      <stop offset="50%" stop-color="#8B5A2B"/>
+      <stop offset="100%" stop-color="#5C3317"/>
+    </radialGradient>
+    <linearGradient id="outerGradient" x1="0" y1="0" x2="48" y2="48">
+      <stop offset="0%" stop-color="#FFDAB9"/>
+      <stop offset="100%" stop-color="#5C3317"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Outer energy ring -->
+  <circle cx="24" cy="24" r="22" fill="none" stroke="url(#outerGradient)" stroke-width="1.5" stroke-opacity="0.6"/>
+  
+  <!-- Core circle -->
+  <circle cx="24" cy="24" r="12" fill="url(#coreGradient)"/>
+  
+  <!-- Inner dark core -->
+  <circle cx="24" cy="24" r="7" fill="#09090B"/>
+  
+  <!-- Center light -->
+  <circle cx="24" cy="24" r="4" fill="#FFDAB9"/>
+</svg>
