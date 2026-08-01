@@ -192,11 +192,11 @@ supernova-landing/
 
 ---
 
-## 🏆 Hackathon
+## 🏆 Ai Hackathon
 
 <div align="center">
 
-**Built for the Backblaze × GenBlaze Hackathon 2026**
+**Built for the Hackathon 2026**
 
 This landing page represents the public-facing experience of the Supernova ecosystem — showcasing how AI can transform product marketing with unprecedented speed and quality.
 
